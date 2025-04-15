@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "CODE-WITH-INOSUKE",
+  "repo": "container-fc8sm1m",
+  "name": "CODE-WITH-INOSUKE",
+  "email": "beherasurajkumar0280@gmail.com",
+}
